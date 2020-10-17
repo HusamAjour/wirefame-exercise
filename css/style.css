@@ -24,7 +24,7 @@ nav div{
 }
 nav div:nth-child(2) ul li{
     display: inline-block;
-    padding: 30px;
+    padding: 28px 30px;
     color: #969696;
 }
 nav div:nth-child(2) ul li:not(:last-child){
